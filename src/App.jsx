@@ -7,7 +7,7 @@ import Services from "./Components/Services.jsx";
 import Automation from "./Components/Automation.jsx";
 import Products from "./Components/Products.jsx";
 import Testimonials from "./Components/Testimonials.jsx";
-import CTA from "./Components/Cta.jsx";
+import CTA from "./Components/CTA.jsx";
 import Footer from "./Components/Footer.jsx";
 
 const App = () => {
